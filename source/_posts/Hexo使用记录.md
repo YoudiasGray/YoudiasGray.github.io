@@ -8,7 +8,7 @@ tags:
 
 ## Hexo简介
 
-官网链接：https://www.baidu.com/link?url=oQI4vD9THBhE5c72w7VfahbdACl0JH2zExXmMwQ26cajfIDSve4Z7shpRFZAQ2IQ&wd=&eqid=b2470dbd002f81c4000000035d2b0f7a
+官网链接：https://hexo.io/zh-cn/docs/
 
 生成静态页面，可以部署在github.io或者gitee上，实现搭建自己的博客。
 
@@ -88,6 +88,10 @@ deploy:
 github网络会有一些问题，本来是部署在gitee上的，不过可能是用到了一些墙外的资源，同样的内容，部署在github上的显示效果和在 本地一样，但是在gitee上就只是单纯的文本了，完全没了主题效果。好在目前够用，后面得想办法处理下，可能需要进行更换主题之类的操作。
 
 
+
+## 更新
+
+gitee上也没有问题，需要创建和用户名完全一样的仓库，其他和GitHub一样。
 
 
 
