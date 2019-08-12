@@ -110,6 +110,18 @@ tags:
 
 
 
+##### update 2019年8月12日13:41:51
+
+https://blog.csdn.net/xcantloadx/article/details/78296227
+
+https://blog.csdn.net/burststar/article/details/45115905
+
+下载博客后提示Local hexo not found in XXX，重新执行npm install即可。
+
+或者修改.gitingore，取消忽略node_modules文件夹。
+
+
+
 
 
 
