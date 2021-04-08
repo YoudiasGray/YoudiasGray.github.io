@@ -122,7 +122,17 @@ https://blog.csdn.net/burststar/article/details/45115905
 
 
 
+##### update 2019年8月18日19:17:30
 
+```
+date: 2019-07-14 19:15:20
+tags:
+	- XXX
+```
+
+可以按照上面所示添加标签，对博客进行分类。
+
+可以添加多个标签。
 
 
 
